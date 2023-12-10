@@ -1,4 +1,4 @@
-# Exploration-on-CIFAR10-and-BN
+# Exploration-on-Batch-Normalization
 In this PJ I build a simple Conv2d network and implement some beneficial modifications based on it. Also I conduct some investigation on the network architecture and training process, ultimately my best model achieves a 96.68% test accuracy and CrossEntropy test loss reduced to
 0.0012. 
 The explorations done are as follows:
